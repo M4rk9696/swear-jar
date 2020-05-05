@@ -1,0 +1,12 @@
+{
+  "name": "Swear Jar",
+  "short_name": "Swear Jar",
+  "description": "Add a coin in the jar when you swear",
+  "icons": [
+
+  ],
+  "display": "standalone",
+  "background_color": "blue",
+  "theme_color": "lightblue",
+  "start_url": "/index.html"
+}
